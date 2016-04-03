@@ -7,3 +7,8 @@ Tried to update the previous example and it was just easier to start all over.
   * Using a MasterLayout
 * Using Meteor React Containers, creating [`container components`](http://guide.meteor.com/react.html#using-createContainer)
 * Implemented Custom Login UI
+
+#### Reference Links
+* https://www.meteor.com/tutorials/react/creating-an-app
+* http://guide.meteor.com/react.html
+* Meteor Toys - GREAT TOOL - https://atmospherejs.com/meteortoys/allthings
