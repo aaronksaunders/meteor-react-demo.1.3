@@ -7,12 +7,6 @@ import { createContainer } from 'meteor/react-meteor-data';
 
 // App component - represents the whole app
 class App extends Component {
-    getSessions() {
-        return [
-            {_id: 1, title: 'This is task 1', description: 'Task One Description'},
-            {_id: 2, title: 'This is task 2', description: 'Task Two Description'}
-        ];
-    }
 
     renderList () {
         
