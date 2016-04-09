@@ -4,8 +4,7 @@
 Tried to update the previous example and it was just easier to start all over.
 
 * SEE THIS ISSUE IF RUNNING ON WINDOWS: https://github.com/meteor/meteor/issues/6609
-
-* Using Flow Router - [http://guide.meteor.com/react.html#using-flow-router](http://guide.meteor.com/react.html#using-flow-router)
+* Using Flow Router [http://guide.meteor.com/react.html#using-flow-router](http://guide.meteor.com/react.html#using-flow-router)
 * Using a MasterLayout Class to show nested sections of Application
 * Using Meteor React Containers, creating [`container components`](http://guide.meteor.com/react.html#using-createContainer)
 * Implemented Custom Login UI Using the Accounts Package
